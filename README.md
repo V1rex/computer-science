@@ -98,20 +98,6 @@ Courses | Effort | Prerequisites | Progress
 [Python for Everybody](https://www.py4e.com/) | 58 hours | none | on progress
 [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | 138 hours | high school mathematics | asleep
 
-### Introduction to Computer Science
-
-This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
-
-**Topics covered**:
-`computation`
-`imperative programming`
-`basic data structures and algorithms`
-`and more`
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home)
-
 ### Introduction to CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
 
