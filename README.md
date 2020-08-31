@@ -96,7 +96,7 @@ _Fundamentals of Computing_ will also start by introducing you to Python. It the
 Courses | Effort | Prerequisites | Progress
 :-- | :--: | :--:| :--:
 [Python for Everybody](https://www.py4e.com/) | 58 hours | none | finished
-[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | 138 hours | high school mathematics | asleep
+[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | 138 hours | high school mathematics | on progress
 
 ### Introduction to CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
